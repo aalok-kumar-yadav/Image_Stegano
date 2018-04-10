@@ -19,7 +19,7 @@ sudo apt install python-pil
 Install pillow on ubuntu system for python3
 
 ```bash
-sudo apt install python-pil
+sudo apt install python3-pil
 ```
 
 
